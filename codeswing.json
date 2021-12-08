@@ -1,0 +1,10 @@
+{
+  "scripts": [
+    "https://unpkg.com/@popperjs/core@2",
+    "https://unpkg.com/tippy.js@6"
+  ],
+  "styles": [
+    "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.css",
+    "https://unpkg.com/tippy.js@6/animations/shift-away.css"
+  ]
+}
